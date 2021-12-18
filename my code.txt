@@ -1,6 +1,6 @@
 Olá, Brasil!!!
 
-Estou estou iniciando o meu aprendizado sobre o GIT.
+Eu estou iniciando o meu aprendizado sobre o GIT.
 
 Aqui será o primeiro código para esse fim.
 
