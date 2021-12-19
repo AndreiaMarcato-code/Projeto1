@@ -7,3 +7,5 @@ Aqui será o primeiro código para esse fim.
 Boralá!
 
 Adicionando essa linha para verificação de atualização.
+
+Adicionando mais linha para nova verificação de atualização.
