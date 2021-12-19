@@ -5,7 +5,10 @@ Eu estou iniciando o meu aprendizado sobre o GIT.
 Aqui será o primeiro código para esse fim.
 
 Boralá!
+<<<<<<< HEAD
 
 Adicionando essa linha para verificação de atualização.
 
 Adicionando mais linha para nova verificação de atualização.
+=======
+>>>>>>> e6b639bffc2ff2a1e5bd2d1c22e9e5a65a156127
